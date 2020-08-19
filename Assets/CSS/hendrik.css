@@ -90,12 +90,20 @@ nav a:hover:before{
 body{
 color: white;
 }
-.landing-card{
-    color: white;
+.card{
+    color: black;
     z-index: 1;
-    background-color: black;
 }
 article{
     margin-top: 250px;
     height: 1000px;
+}
+.ftr{
+    bottom: 15px;
+    background-color: black;
+    height: 30px;
+    width: 100%;
+    position: fixed;
+    text-align:center;
+    z-index: 2;
 }
