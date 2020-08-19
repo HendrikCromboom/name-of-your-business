@@ -6,6 +6,10 @@
     grid-template-rows: auto auto;
 }
 
+.history{
+    width: 100%;
+}
+
 .col{
     position: relative;
     margin: 0;
@@ -23,12 +27,31 @@
     margin-bottom: 20px;
     float: left;
     margin-right: 30px;
-    height: 200px;
-    width: 427px;
+    height: 350px;
+    width: 450px;
 }
 
 .center{
     display: block;
     margin-right: auto;
     margin-left: auto;
+    width: 300px;
+}
+
+.barbershop{
+    display: block;
+    width: 35%;
+    float: right;
+    padding: 10px;
+    margin-right: 20px;
+
+}
+.col-inner{
+    position: relative;
+    background-position: 50% 50%;
+    flex: 1 0 auto;
+}
+
+.section-title{
+    margin-left: 15px;
 }
