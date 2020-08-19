@@ -23,6 +23,12 @@
     margin-bottom: 20px;
     float: left;
     margin-right: 30px;
-    height: 520px;
+    height: 200px;
     width: 427px;
+}
+
+.center{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
 }
