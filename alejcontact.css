@@ -1,0 +1,13 @@
+#main-container{
+    display: block;
+    overflow: visible;
+    max-width: 100%;
+    position: relative;
+}
+
+.container{
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
