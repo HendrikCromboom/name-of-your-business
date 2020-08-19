@@ -20,46 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6350c768-5240-4219-bf40-6ba3fb1954f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/child2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/man1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/woman3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/child1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/child1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/child1.xcf" beforeDir="false" afterPath="$PROJECT_DIR$/child1.xcf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/child2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/child2.xcf" beforeDir="false" afterPath="$PROJECT_DIR$/child2.xcf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/man1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/man1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/man1.xcf" beforeDir="false" afterPath="$PROJECT_DIR$/man1.xcf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/man2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/man2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/man2.xcf" beforeDir="false" afterPath="$PROJECT_DIR$/man2.xcf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/man3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/man3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/man3.xcf" beforeDir="false" afterPath="$PROJECT_DIR$/man3.xcf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/man4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/man4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/man4.xcf" beforeDir="false" afterPath="$PROJECT_DIR$/man4.xcf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/man5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/man5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/man5.xcf" beforeDir="false" afterPath="$PROJECT_DIR$/man5.xcf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/man6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/man6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/man6.xcf" beforeDir="false" afterPath="$PROJECT_DIR$/man6.xcf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/man7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/man7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/man7.xcf" beforeDir="false" afterPath="$PROJECT_DIR$/man7.xcf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/man8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/man8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/man8.xcf" beforeDir="false" afterPath="$PROJECT_DIR$/man8.xcf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/man9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/man9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/man9.xcf" beforeDir="false" afterPath="$PROJECT_DIR$/man9.xcf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/victoria.css" beforeDir="false" afterPath="$PROJECT_DIR$/victoria.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/victoria.html" beforeDir="false" afterPath="$PROJECT_DIR$/victoria.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/woman1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/woman1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/woman1.xcf" beforeDir="false" afterPath="$PROJECT_DIR$/woman1.xcf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/woman2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/woman2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/woman2.xcf" beforeDir="false" afterPath="$PROJECT_DIR$/woman2.xcf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/woman3.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/woman3.xcf" beforeDir="false" afterPath="$PROJECT_DIR$/woman3.xcf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/woman4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/woman4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/woman4.xcf" beforeDir="false" afterPath="$PROJECT_DIR$/woman4.xcf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/woman5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/woman5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/woman5.xcf" beforeDir="false" afterPath="$PROJECT_DIR$/woman5.xcf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/woman6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/woman6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/woman6.xcf" beforeDir="false" afterPath="$PROJECT_DIR$/woman6.xcf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/woman7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/woman7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/woman7.xcf" beforeDir="false" afterPath="$PROJECT_DIR$/woman7.xcf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597823235678</updated>
-      <workItem from="1597823236861" duration="7225000" />
+      <workItem from="1597823236861" duration="10983000" />
     </task>
     <servers />
   </component>
