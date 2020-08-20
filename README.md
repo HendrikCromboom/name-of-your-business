@@ -240,7 +240,7 @@ Additional requirements:
 
 [ ] Make page fully accessible for the visualy impaired/blind
 
-[ ] Have a footer
+[X] Have a footer
 
 [ ] Have a copyright on the website
 
@@ -248,7 +248,7 @@ Additional requirements:
 
 [ ] Add a Google Maps Embed
 
-[ ] Add an effect on hover over your clickable pictures 
+[X] Add an effect on hover over your clickable pictures 
 
 
 
