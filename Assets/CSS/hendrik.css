@@ -20,7 +20,8 @@ nav{
     top:50px;
     text-align:center;
     z-index: 2;
-
+    background-color:rgba(1,1,1,0.2);
+    top: 10%;
 }
 nav a{
     font-family: 'Oswald', sans-serif;
