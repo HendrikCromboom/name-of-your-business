@@ -10,18 +10,16 @@
 .card:hover{
     box-shadow: 5px 5px 5px rgba(250, 247, 247, 10);
 }
-.cisnav{
-    justify-self: center;
-}
-
-
-/*HR BREAK*/
-hr{
-    opacity: 0;
-}
 
 /*CIS NAV*/
+.cisnav{
 
+}
+
+.buttons{
+    word-spacing: 10px;
+    border: none;
+}
 
 /*HENDRIKS CSS CODE*/
 @import url('https://fonts.googleapis.com/css?family=Oswald:500');
@@ -122,8 +120,9 @@ body{
 }
 article{
     margin-top: 250px;
+    margin-bottom: 250px;
     height: 250px;
-    margin-bottom: -100px;
+    position: relative;
 }
 .ftr{
     bottom: 15px;
