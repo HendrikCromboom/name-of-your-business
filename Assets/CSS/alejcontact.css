@@ -180,15 +180,16 @@ iframe{
     line-height: 1.6;
 }
 
-a:link{
+a:link.linkc{
     color: #808080;
 }
 
-a:visited{
+a:visited.linkv{
     color: purple;
 }
 
-a:hover{
+
+a:hover.linkh{
     color: #404040;
     text-decoration: none;
 }
