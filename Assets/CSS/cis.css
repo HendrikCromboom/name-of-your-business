@@ -11,15 +11,15 @@
     box-shadow: 5px 5px 5px rgba(250, 247, 247, 10);
 }
 
+
 /*CIS NAV*/
-.cisnav{
 
+button{
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
 }
 
-.buttons{
-    word-spacing: 10px;
-    border: none;
-}
+
 
 /*HENDRIKS CSS CODE*/
 @import url('https://fonts.googleapis.com/css?family=Oswald:500');
