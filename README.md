@@ -235,10 +235,23 @@ Readme but also writeme
 
 [X] The console shows no errors
 
+##### Individual Requirements
 
+[ ] Make page fully accessible for the visualy impaired/blind
 
+[ ] Have a footer
 
+[ ] Have a copyright on the website
 
+[ ] Have external urls always open in a new tab
+
+[ ] Add a Google Maps Embed
+
+[ ] Add an effect on hover over your clickable pictures
+
+[ ] Add a review carousel
+
+[ ]Add at least one CSS animation
 
 
 
