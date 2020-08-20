@@ -239,19 +239,19 @@ Readme but also writeme
 
 [ ] Make page fully accessible for the visualy impaired/blind
 
-[ ] Have a footer
+[X] Have a footer
 
-[ ] Have a copyright on the website
+[X] Have a copyright on the website
 
 [ ] Have external urls always open in a new tab
 
 [ ] Add a Google Maps Embed
 
-[ ] Add an effect on hover over your clickable pictures
+[X] Add an effect on hover over your clickable pictures
 
 [ ] Add a review carousel
 
-[ ]Add at least one CSS animation
+[X]Add at least one CSS animation
 
 
 
