@@ -236,6 +236,7 @@ Readme but also writeme
 [ ] The console shows no errors
 
 
+
 Additional requirements:
 
 [ ] Make page fully accessible for the visualy impaired/blind
@@ -250,7 +251,9 @@ Additional requirements:
 
 [X] Add an effect on hover over your clickable pictures 
 
+[ ] Add a review carousel to your page
 
+[ ] Add at least one CSS animation
 
 
 
