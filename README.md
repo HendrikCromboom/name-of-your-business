@@ -236,7 +236,17 @@ Readme but also writeme
 [ ] The console shows no errors
 
 
+Additional requirements:
 
+[ ] Make page fully accessible for the visualy impaired/blind
+
+[ ] Have a footer
+
+[ ] Have a copyright on the website
+
+[ ] Have external urls always open in a new tab
+
+[ ] Add a Google Maps Embed
 
 
 
