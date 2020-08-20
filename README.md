@@ -21,6 +21,12 @@ You can choose the make the website in Dutch or English.
 
 ---
 
+Demo:
+
+https://hendrikcromboom.github.io/name-of-your-business/
+
+---
+
 ### Requirements
 
 Perfection is not a detail
@@ -29,27 +35,27 @@ Perfection is not a detail
 
 [ ] All elements work and are complete (menu, lists, images, ...)
 
-[ ] Everything on the page has a function, a reason to be there
+[X] Everything on the page has a function, a reason to be there
 
-[ ] No dead links
+[X] No dead links
 
-[ ] English and dutch are not mixed
+[X] English and dutch are not mixed
 
 [ ] No spelling errors
 
 [ ] No grammar errors
 
-[ ] The website is deployed somewhere
+[X] The website is deployed somewhere
 
-[ ] Everything is relevant (no image of a barber on the website of a baker)
+[X] Everything is relevant (no image of a barber on the website of a baker)
 
 ##### Content
 
 [ ] Openinghours (if needed)
 
-[ ] Address (if needed)
+[X] Address (if needed)
 
-[ ] Clickable email
+[X] Clickable email
 
 [ ] A working form (you can use https://formspree.io)
 
@@ -63,7 +69,7 @@ Perfection is not a detail
 
 [ ] We aren't using a default font, cause it's not 2004
 
-[ ] Contrast is not too low
+[X] Contrast is not too low
 
 [ ] Typographic hierachy is correct
 
@@ -95,7 +101,7 @@ Perfection is not a detail
 
 [ ] Pictures are not too heavy
 
-[ ] Pictures are not pixelated
+[X] Pictures are not pixelated
 
 ##### A company wants to be found/SEO
 
@@ -113,29 +119,29 @@ Perfection is not a detail
 
 [ ] No unused files in the repo
 
-[ ] All files have a good, clear name
+[X] All files have a good, clear name
 
-[ ] Good folder structure
+[X] Good folder structure
 
-[ ] The CSS folder does not have an image folder
+[X] The CSS folder does not have an image folder
 
-[ ] Not too many files in the root folder
+[X] Not too many files in the root folder
 
-[ ] Git(hub) is what you make it
+[X] Git(hub) is what you make it
 
 #####  All commits use a good comment
 
-[ ] A github description has been filled in
+[X] A github description has been filled in
 
-[ ] A github website has been filled in
+[X] A github website has been filled in
 
 Readme but also writeme
 
-[ ] The readme says who made it
+[X] The readme says who made it
 
-[ ] The readme says why they made it
+[X] The readme says why they made it
 
-[ ] The readme explains what this repo/project is
+[X] The readme explains what this repo/project is
 
 [ ] The readme explains why it is on github
 
@@ -187,9 +193,9 @@ Readme but also writeme
 
 ##### Putting the antics back in semantics (but only for the html)
 
-[ ] The html is semanticly correct
+[X] The html is semanticly correct
 
-[ ] Navigation is in a nav
+[X] Navigation is in a nav
 
 [ ] Lists use list tags
 
@@ -213,15 +219,15 @@ Readme but also writeme
 
 [ ] The CSS does not contain conflicting selectors (multiple definition for the same class/id)
 
-[ ] There is no use of !important where it can be avoided
+[X] There is no use of !important where it can be avoided
 
-[ ] The page is responsive
+[X] The page is responsive
 
 ##### Thermometer goes WHERE???
 
-[ ] Your own style is included after the style of frameworks
+[X] Your own style is included after the style of frameworks
 
-[ ] Script tags are put at the end of the body or in the head with async/defer if possible
+[X] Script tags are put at the end of the body or in the head with async/defer if possible
 
 ##### Errors are to be avoided
 
@@ -231,8 +237,23 @@ Readme but also writeme
 
 
 
+Additional requirements:
 
+[ ] Make page fully accessible for the visualy impaired/blind
 
+[X] Have a footer
+
+[ ] Have a copyright on the website
+
+[ ] Have external urls always open in a new tab
+
+[ ] Add a Google Maps Embed
+
+[X] Add an effect on hover over your clickable pictures 
+
+[ ] Add a review carousel to your page
+
+[ ] Add at least one CSS animation
 
 
 
