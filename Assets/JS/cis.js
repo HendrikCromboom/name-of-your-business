@@ -13,9 +13,9 @@ function buttonOne(){
     document.getElementById("section__five").style.display = "none";
 
 
-    document.getElementById("tab__one").className="active";
-    document.getElementById("tab__two").className="inactive";
-    document.getElementById("tab__three").className="inactive";
+    document.getElementById("tab__one").className= "active";
+    document.getElementById("tab__two").className= "inactive";
+    document.getElementById("tab__three").className= "inactive";
     document.getElementById("tab__four").className = "inactive";
     document.getElementById("tab__five").className = "inactive";
 }
@@ -27,8 +27,8 @@ function buttonTwo(){
     document.getElementById("section__four").style.display = "none";
     document.getElementById("section__five").style.display = "none";
 
-    document.getElementById("tab__one").className="inactive";
     document.getElementById("tab__two").className="active";
+    document.getElementById("tab__one").className="inactive";
     document.getElementById("tab__three").className="inactive";
     document.getElementById("tab__four").className = "inactive";
     document.getElementById("tab__five").className = "inactive";
