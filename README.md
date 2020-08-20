@@ -248,6 +248,8 @@ Additional requirements:
 
 [ ] Add a Google Maps Embed
 
+[ ] Add an effect on hover over your clickable pictures 
+
 
 
 
