@@ -100,10 +100,10 @@ body{
 article{
     margin-left: 2.5%;
     margin-right: 2.5%;
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
     height: 70%;
     overflow-y: hidden;
-    margin-top: 10px;
-    margin-bottom: 10px;
 }
 
 .ftr{
@@ -127,7 +127,7 @@ article{
 }
 
 .resize {
-    height:200px;
+    height:190px;
 }
 
 .lpadding {
