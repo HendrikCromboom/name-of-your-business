@@ -1,18 +1,27 @@
 @import url('https://fonts.googleapis.com/css?family=Oswald:500');
 /*CARD EFFECT*/
+.card-title{
+    font-family: 'Oswald', sans-serif;
+}
 
 
 .card {
     transition: box-shadow .3s;
     opacity: 90%;
 
-}
 
+}
+#maintext{
+    font-size: 18px;
+    color: #16151b;
+    justify-content: left;
+}
+.card-text{
+    font-family: 'PT Sans Narrow', sans-serif;
+    color: #16151b;
+}
 .card:hover {
     box-shadow: 5px 5px 5px rgba(250, 247, 247, 10);
-}
-.card-title{
-    font-family: 'Oswald', sans-serif;
 }
 
 /*CIS NAV*/
@@ -62,6 +71,10 @@ a:visited {
     text-transform: uppercase;
     font-family: 'Oswald', sans-serif;
 }
+/*CIS FOOTER*/
+
+
+
 
 /*HENDRIKS CSS CODE*/
 
