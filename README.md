@@ -241,7 +241,7 @@ Readme but also writeme
 
 ##### Individual Requirements
 
-[ ] Make page fully accessible for the visualy impaired/blind
+[ ] Make page fully accessible for the visually impaired/blind
 
 [X] Have a footer
 
@@ -258,12 +258,3 @@ Readme but also writeme
 [X]Add at least one CSS animation
 
 
-
-Contributors
-
----
-
-* Cis Magito
-* Victoria Sof
-* Alejandro
-* Hendrik
