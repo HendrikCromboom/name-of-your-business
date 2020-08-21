@@ -2,6 +2,7 @@
 /*CARD EFFECT*/
 .card-title{
     font-family: 'Oswald', sans-serif;
+    color: rgba(15, 15, 15, 0.9);
 }
 
 
@@ -13,16 +14,16 @@
 }
 #maintext{
     font-size: 18px;
-    color: #16151b;
+    color: rgba(15, 15, 15, 0.9);
     justify-content: left;
     line-height: 20px;
 }
 .card-text{
     font-family: 'PT Sans Narrow', sans-serif;
-    color: #16151b;
+    color: rgba(15, 15, 15, 0.9);
 }
 .card:hover {
-    box-shadow: 5px 5px 5px rgba(250, 247, 247, 10);
+    box-shadow: 5px 5px 5px rgba(250, 247, 247, 8);
 }
 
 /*CIS NAV*/
@@ -76,7 +77,7 @@ a:visited {
 
 #ftr {
     bottom: 0;
-    background-color: black;
+    background-color: rgba(15, 15, 15, 0.6);
     width: 100%;
     position: fixed;
     text-align: justify-all;
