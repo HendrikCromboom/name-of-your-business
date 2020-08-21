@@ -199,3 +199,7 @@ a:hover.linkh{
     color: #404040;
     text-decoration: none;
 }
+
+.card-title{
+    font-family: 'Oswald', sans-serif;
+}
