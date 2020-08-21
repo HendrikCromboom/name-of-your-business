@@ -1,0 +1,238 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:500'); /* font import*/
+
+.back{ /* background*/
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%; background:url(../IMG/bg.jpg) no-repeat top center #efeff1;
+  background-size:cover;
+  background-attachment: fixed;
+}
+.thx{
+  position: fixed;
+  left:50%;
+  transform:translateX(-50%);
+  bottom: 15px;
+}
+nav{ /* navbar */
+  width: 100%;
+  position: fixed;
+  top:50px;
+  text-align:center;
+  z-index: 2;
+  background-color:rgba(1,1,1,0.2);
+  top: 10%;
+}
+nav a{
+  font-family: 'Oswald', sans-serif;
+  font-weight:450;
+  text-transform:uppercase;
+  text-decoration:none;
+  color:white;
+  margin:0 15px;
+  font-size:16px;
+  letter-spacing:2px;
+  position:relative;
+  display:inline-block;
+}
+nav a:before{
+  content:'';
+  position: absolute;
+  width: 100%;
+  height: 3px;
+  background:#16151b;
+  top:47%;
+  animation:out 0.2s cubic-bezier(1, 0, 0.58, 0.97) 1 both;
+}
+nav a:hover:before{
+  animation:in 0.2s cubic-bezier(1, 0, 0.58, 0.97) 1 both;
+
+}
+@keyframes in{ /* navbar animation*/
+  0%{
+    width: 0;
+    left:0;
+    right:auto;
+  }
+  100%{
+    left:0;
+    right:auto;
+    width: 100%;
+  }
+}
+@keyframes out{
+  0%{
+    width:100%;
+    left: auto;
+    right: 0;
+  }
+  100%{
+    width: 0;
+    left: auto;
+    right: 0;
+  }
+}
+@keyframes show{
+  0%{
+    opacity:0;
+    transform:translateY(-10px);
+  }
+  100%{
+    opacity:1;
+    transform:translateY(0);
+  }
+}
+
+@for $i from 1 through 5 {
+  nav a:nth-child(#{$i}){
+    animation:show .2s #{$i*0.1+1}s ease 1 both;
+  }
+}
+body{
+  color: white;
+}
+.card{ /* article content card*/
+  color: black;
+  z-index: 1;
+  display: flex;
+  flex-direction: row;
+}
+article{
+  margin-top: 250px;
+  height: 1000px;
+}
+.victoria{
+  margin-left: 2.5%;
+  margin-right: 2.5%;
+  margin-top: 8%;
+  margin-bottom: 1.5%;
+  height: 70%;
+  overflow-y: hidden;
+}
+.ftr { /* Cis new footer */
+  bottom: 15px;
+  background-color: black;
+  height: 30px;
+  width: 100%;
+  position: fixed;
+  text-align: center;
+  z-index: 2;
+}
+.logo{
+  width: 250px;
+  height: 250px;
+  margin: 1%;
+}
+.mid{ /* selector for 1 card group */
+  margin-left: 2.5%;
+  margin-right: 2.5%;
+  background-color:rgba(250,250,250,0.97);
+}
+a:link { /* makes links stay white */
+  text-decoration: none;
+  color:whitesmoke;
+}
+
+a:hover {
+  color: whitesmoke;
+  text-decoration: none;
+}
+
+a:visited {
+  color: whitesmoke;
+  text-decoration: none;
+}
+
+/* Styled by Hendrik Cromboom 2020*/
+
+/* Victoria styling */
+
+.resize {
+  height:197px;
+}
+
+.lpadding {
+  padding-left: 65px;
+}
+
+.rpadding {
+  padding-right: 65px;
+}
+
+img {
+  max-width:100%;
+}
+
+/*CIS NAV*/
+
+button {
+  font-family: 'Oswald', sans-serif;
+  text-transform: uppercase;
+  font-size: 16px;
+  border: none;
+  margin-bottom: 40px;
+  height: 35px;
+  background: none;
+}
+
+button:hover {
+  background-color: rgba(15, 15, 15, 0.6);
+  border-radius: 7px;
+  color: whitesmoke;
+}
+.notification{
+  padding: .5rem .5rem;
+  text-align: center;
+  width: 150px;
+  color: whitesmoke;
+  position: fixed;
+  bottom: 70px;
+  right:0;
+  z-index: 100;
+  background-color:rgba(1,1,1,0.2);
+  text-transform: uppercase;
+  font-family: 'Oswald', sans-serif;
+}
+
+.center{ /* Alej CSS */
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 100%;
+  height: 65%;
+}
+
+.names{
+  padding-top: 5px;
+  text-align: center;
+  font-weight: bold;
+
+}
+
+input[type=text], select { /* Alej FORM */
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: gray;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: darkgray;
+}
+
+/* end form */
