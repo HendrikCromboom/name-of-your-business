@@ -55,7 +55,7 @@ Perfection is not a detail
 
 ##### Content
 
-[ ] Openinghours (if needed)
+[X] Openinghours (if needed)
 
 [X] Address (if needed)
 
