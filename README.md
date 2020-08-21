@@ -17,7 +17,7 @@ https://hendrikcromboom.github.io/name-of-your-business/
 
 ---
 
-###Platform
+### Platform
 
 The Angels are using GitHub as their main repository for their combined intel and mission data.
 Purely because GitHub allows the Angels to quickly collect their combined research, data, files, codes and they can pull it to their personal drives.
