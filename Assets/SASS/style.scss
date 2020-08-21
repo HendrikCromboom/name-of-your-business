@@ -95,12 +95,9 @@ body{
 .card{ /* article content card*/
   color: black;
   z-index: 1;
-  display: flex;
-  flex-direction: row;
 }
 article{
   margin-top: 250px;
-  height: 1000px;
 }
 .victoria{
   margin-left: 2.5%;
@@ -259,3 +256,30 @@ input[type=submit]:hover {
 }
 
 /* end form */
+
+.card-cis {
+  transition: box-shadow .3s;
+  opacity: 90%;
+  .card-title{
+    font-family: 'Oswald', sans-serif;
+  }
+  .card-text{
+    font-family: 'PT Sans Narrow', sans-serif;
+    color: rgba(15, 15, 15, 0.9);
+  }
+}
+.card-cis:hover {
+  box-shadow: 5px 5px 5px rgba(250, 247, 247, 10);
+}
+#maintext{
+  font-size: 18px;
+  color: rgba(15, 15, 15, 0.9);
+  justify-content: left;
+  line-height: 20px;
+}
+.article-cis {
+  margin-top: 250px;
+  margin-bottom: 100px;
+  height: 250px;
+  position: relative;
+}
