@@ -102,13 +102,13 @@ article{
     margin-top: 250px;
     height: 1000px;
 }
-.ftr{ /* footer*/
+.ftr {
     bottom: 15px;
     background-color: black;
     height: 30px;
     width: 100%;
     position: fixed;
-    text-align:center;
+    text-align: center;
     z-index: 2;
 }
 .logo{
