@@ -257,6 +257,13 @@ button:hover {
   width: 100%;
 }
 
+.col-alej-contact {
+  position: relative;
+  margin: 0;
+  padding: 0 15px 30px;
+  width: 50%;
+}
+
 .row-alej {
   width: 100%;
   display: flex;
