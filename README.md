@@ -9,10 +9,10 @@ Start a company together and set up a working website. 4 man team, 4 pages, 3 da
 The Angels had their task laid out for them and as they know - the best laid plans rarely come together.
 
 ### Who are Sicco's Angels?
-Git Master: Hendrik Cromboom
-Scrum Master: Cis Magito
-Dude with a 'tude': Alejandro Gonzalez
-Our Diva, better believe-ah: Victoria Sofianidou
+- Git Master: [Hendrik Cromboom](https://github.com/HendrikCromboom)
+- Scrum Master: [Cis Magito](https://github.com/Beardificent)
+- Dude with a 'tude': [Alejandro Gonzalez](https://github.com/glezzz)
+- Our Diva, better believe-ah: [Victoria Sofianidou](https://github.com/victoriasof)
 
 ---
 
