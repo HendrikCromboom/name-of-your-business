@@ -172,3 +172,24 @@ textarea{
 
 }
 
+iframe{
+    margin-top: 8px;
+}
+
+.cntct-text{
+    line-height: 1.6;
+}
+
+a:link.linkc{
+    color: #808080;
+}
+
+a:visited.linkv{
+    color: purple;
+}
+
+
+a:hover.linkh{
+    color: #404040;
+    text-decoration: none;
+}
