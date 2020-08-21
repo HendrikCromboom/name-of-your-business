@@ -1,3 +1,5 @@
+/* Hendrik styling */
+
 @import url('https://fonts.googleapis.com/css?family=Oswald:500');
 .back{
     position: fixed;
@@ -97,6 +99,9 @@ body{
     flex-direction: row;
 
 }
+
+/* Victoria added styling in article*/
+
 article{
     margin-left: 2.5%;
     margin-right: 2.5%;
@@ -126,6 +131,7 @@ article{
     background-color:rgba(250,250,250,0.9);
 }
 
+/* Victoria styling */
 
 .resize {
     height:190px;
@@ -144,7 +150,26 @@ img {
 }
 
 h5 {
-    padding-left: 85px;
+    padding-left: 105px;
     padding-top: 10px;
+    font-family: 'Oswald', sans-serif;
+}
+
+
+/* Cis links styling */
+
+a:link {
+    text-decoration: none;
+    color:whitesmoke;
+}
+
+a:hover {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+a:visited {
+    color: whitesmoke;
+    text-decoration: none;
 }
 
