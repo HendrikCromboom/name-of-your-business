@@ -8,6 +8,12 @@
 Start a company together and set up a working website. 4 man team, 4 pages, 3 days.
 The Angels had their task laid out for them and as they know - the best laid plans rarely come together.
 
+### Who are Sicco's Angels?
+Git Master: Hendrik Cromboom
+Scrum Master: Cis Magito
+Dude with a 'tude': Alejandro Gonzalez
+Our Diva, better believe-ah: Victoria Sofianidou
+
 ---
 
 Demo:
@@ -141,25 +147,25 @@ Readme but also writeme
 
 [X] The readme explains what this repo/project is
 
-[ ] The readme explains why it is on github
+[X] The readme explains why it is on github
 
-[ ] The readme links to a preview (screenshot)
+[X] The readme links to a preview (screenshot)
 
-[ ] The readme contains a nice image
+[X] The readme contains a nice image
 
-[ ] The readme does not contain the readme/license of dependencies, libraries, templates
+[X] The readme does not contain the readme/license of dependencies, libraries, templates
 
-[ ] If needed they are included in the repo and are mentioned in the readme
+[X] If needed they are included in the repo and are mentioned in the readme
 
-[ ] The readme has a markdown title
+[X] The readme has a markdown title
 
-[ ] The readme is divided in sections
+[X] The readme is divided in sections
 
-[ ] The readme is fun to read
+[?] The readme is fun to read
 
-[ ] The readme looks good
+[X] The readme looks good
 
-[ ] The readme is clear, even for someone that has no idea what is going on
+[?] The readme is clear, even for someone that has no idea what is going on
 
 ##### I'm So Meta, Even This Acronym
 
