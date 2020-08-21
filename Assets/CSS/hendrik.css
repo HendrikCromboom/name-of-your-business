@@ -120,3 +120,17 @@ article{
     margin-right: 2.5%;
     background-color:rgba(250,250,250,0.9);
 }
+a:link {
+    text-decoration: none;
+    color:whitesmoke;
+}
+
+a:hover {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+a:visited {
+    color: whitesmoke;
+    text-decoration: none;
+}
