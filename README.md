@@ -6,7 +6,7 @@
 
 
 Start a company together and set up a working website. 4 man team, 4 pages, 3 days.
-The Angels had their task laid out for them and as they know the best laid pland rarely come together.
+The Angels had their task laid out for them and as they know - the best laid plans rarely come together.
 
 ---
 
