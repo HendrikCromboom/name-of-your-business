@@ -31,7 +31,7 @@ https://hendrikcromboom.github.io/name-of-your-business/
 
 Perfection is not a detail
 
-[ ] All buttons and links work
+[X] All buttons and links work
 
 [X] All elements work and are complete (menu, lists, images, ...)
 
@@ -57,7 +57,7 @@ Perfection is not a detail
 
 [X] Clickable email
 
-[ ] A working form (you can use https://formspree.io)
+[X] A working form (you can use https://formspree.io)
 
 ##### Text life matters aka typography is real
 
@@ -67,7 +67,7 @@ Perfection is not a detail
 
 [X] Some words have a different color
 
-[ ] We aren't using a default font, cause it's not 2004
+[X] We aren't using a default font, cause it's not 2004
 
 [X] Contrast is not too low
 
@@ -77,17 +77,17 @@ Perfection is not a detail
 
 [X] Intro, middle, conclusion is style correctly
 
-[ ] Headline font is a headline font
+[X] Headline font is a headline font
 
-[ ] Body text font is a body text font
+[X] Body text font is a body text font
 
 [X] The text on the page has a good flow
 
 ##### Style
 
-[ ] Black is almost black but not #000
+[X] Black is almost black but not #000
 
-[ ] White is almost white but not #fff
+[X] White is almost white but not #fff
 
 [X] The website is not an ugly color mess
 
@@ -99,19 +99,19 @@ Perfection is not a detail
 
 ##### Not everyone has free 4G aka speed matters
 
-[ ] Pictures are not too heavy
+[X] Pictures are not too heavy
 
 [X] Pictures are not pixelated
 
 ##### A company wants to be found/SEO
 
-[ ] All the keywords this company wants to be found on are on the page
+[X] All the keywords this company wants to be found on are on the page
 
 [X] Page has an H1 tag
 
-[ ] Page has keyword meta tags
+[X] Page has keyword meta tags
 
-[ ] Page has a title with the keywords in
+[X] Page has a title with the keywords in
 
 [X] Page loads fast
 
@@ -165,21 +165,21 @@ Readme but also writeme
 
 ##### I'm So Meta, Even This Acronym
 
-[ ] Social media sharing meta tags are correct
+[X] Social media sharing meta tags are correct
 
-[ ] Keywords meta tag
+[X] Keywords meta tag
 
-[ ] Description meta tag
+[X] Description meta tag
 
-[ ] Title of the page is included
+[X] Title of the page is included
 
-[ ] Favicon is included
+[X] Favicon is included
 
-[ ] Responsive meta tag is included
+[X] Responsive meta tag is included
 
-[ ] Charset is defined
+[X] Charset is defined
 
-[ ] Author is defined
+[X] Author is defined
 
 ##### Data is the new oil
 
@@ -197,9 +197,9 @@ Readme but also writeme
 
 [X] Navigation is in a nav
 
-[ ] Lists use list tags
+[X] Lists use list tags
 
-[ ] H tags are used to signal importance
+[X] H tags are used to signal importance
 
 [ ] No div is used where another element is available
 
@@ -231,7 +231,7 @@ Readme but also writeme
 
 ##### Errors are to be avoided
 
-[ ] No http resources are used on an https website
+[X] No http resources are used on an https website
 
 [X] The console shows no errors
 
@@ -243,9 +243,9 @@ Readme but also writeme
 
 [X] Have a copyright on the website
 
-[ ] Have external urls always open in a new tab
+[X] Have external urls always open in a new tab
 
-[ ] Add a Google Maps Embed
+[X] Add a Google Maps Embed
 
 [X] Add an effect on hover over your clickable pictures
 
