@@ -242,6 +242,27 @@ button:hover {
   font-weight: bold;
 }
 
+.team1 {
+  margin-bottom: 20px;
+  float: left;
+  margin-right: 30px;
+  height: 510px;
+  width: 450px;
+}
+
+.col-alej {
+  position: relative;
+  margin: 0;
+  padding: 0 15px 30px;
+  width: 100%;
+}
+
+.row-alej {
+  width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+}
+
 input[type=text], select {
   /* Alej FORM */
   width: 100%;
