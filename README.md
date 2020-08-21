@@ -253,7 +253,7 @@ Readme but also writeme
 
 [X] Add an effect on hover over your clickable pictures
 
-[ ] Add a review carousel
+[X] Add a review carousel
 
 [X]Add at least one CSS animation
 
