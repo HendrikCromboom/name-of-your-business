@@ -166,5 +166,22 @@ a:visited {
     text-decoration: none;
 }
 
+/*CIS FOOTER*/
+
+#ftr {
+    bottom: 0;
+    background-color: rgba(15, 15, 15, 0.6);
+    width: 100%;
+    position: fixed;
+    text-align: justify-all;
+    z-index: 5;
+    font-size: smaller;
+    height: 20px;
+
+}
+.ftrtext{
+    margin-left: 50px;
+    vertical-align: middle;
+}
 
 

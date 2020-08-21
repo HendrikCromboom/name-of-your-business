@@ -159,3 +159,9 @@ article{
     text-align:center;
     z-index: 2;
 }
+
+.logo{
+    width: 250px;
+    height: 150px;
+    margin: 1%;
+}

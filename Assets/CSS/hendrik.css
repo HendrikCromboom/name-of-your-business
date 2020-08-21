@@ -29,7 +29,7 @@ nav a{
     font-weight:450;
     text-transform:uppercase;
     text-decoration:none;
-    color:white;
+    color: whitesmoke;
     margin:0 15px;
     font-size:16px;
     letter-spacing:2px;
@@ -90,10 +90,11 @@ nav a:hover:before{
     }
 }
 body{
-color: white;
+    color: whitesmoke;
+    font-family: 'PT Sans Narrow', sans-serif;
 }
 .card{ /* article content card*/
-    color: black;
+    color: rgba(15,15,15);
     z-index: 1;
     display: flex;
     flex-direction: row;
@@ -101,15 +102,6 @@ color: white;
 article{
     margin-top: 250px;
     height: 1000px;
-}
-.ftr{ /* footer*/
-    bottom: 15px;
-    background-color: black;
-    height: 30px;
-    width: 100%;
-    position: fixed;
-    text-align:center;
-    z-index: 2;
 }
 .logo{
     width: 250px;
