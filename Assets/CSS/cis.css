@@ -15,6 +15,7 @@
     font-size: 18px;
     color: #16151b;
     justify-content: left;
+    line-height: 20px;
 }
 .card-text{
     font-family: 'PT Sans Narrow', sans-serif;
