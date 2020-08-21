@@ -149,13 +149,6 @@ img {
     max-width:100%;
 }
 
-h5 {
-    padding-left: 105px;
-    padding-top: 10px;
-    font-family: 'Oswald', sans-serif;
-}
-
-
 /* Cis links styling */
 
 a:link {
@@ -172,4 +165,6 @@ a:visited {
     color: whitesmoke;
     text-decoration: none;
 }
+
+
 
