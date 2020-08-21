@@ -161,11 +161,11 @@ Readme but also writeme
 
 [X] The readme is divided in sections
 
-[?] The readme is fun to read
+[X] The readme is fun to read
 
 [X] The readme looks good
 
-[?] The readme is clear, even for someone that has no idea what is going on
+[X] The readme is clear, even for someone that has no idea what is going on
 
 ##### I'm So Meta, Even This Acronym
 
@@ -207,7 +207,7 @@ Readme but also writeme
 
 [ ] No div is used where another element is available
 
-[ ] No span is used where another element is available
+[X] No span is used where another element is available
 
 [ ] No inline styling is put on any element
 
@@ -253,7 +253,7 @@ Readme but also writeme
 
 [X] Add an effect on hover over your clickable pictures
 
-[ ] Add a review carousel
+[X] Add a review carousel
 
 [X]Add at least one CSS animation
 
