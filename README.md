@@ -1,23 +1,18 @@
-# Our Barbershop
+# Inch by Inch Barbershop
 
+![ALT TEXT](https://raw.githubusercontent.com/HendrikCromboom/name-of-your-business/master/Assets/IMG/diazangel.gif)
 
 ### The mission
 
 
-Invent a company together and think of 1 page per person in your team, that the company needs.
-Divide those pages amongst the group and each person designs one page.
-Once you are all finished, join those pages together with some form of navigation
-Publish the result with a github repository (call it name-of-your-business)
-Make sure everyone in the group has a fork of the website
-Explain your company in the readme of the repo and put a link to the company 'website' in there
-Add a parallax image header Example
-Add a carousel on one page
-Mke your website responsive
-Mention your phone number somewhere on the onepager, if you click it should (try to) call you
-Have a contact form, if you submit it it should send the form to an e-mail address.
-You can use bootstrap or SASS, but you are not required to use it. However use of these tools will give you extra credit in the evaluation.
+Start a company together and set up a working website. 4 man team, 4 pages, 3 days.
+The Angels had their task laid out for them and as they know - the best laid plans rarely come together.
 
-You can choose the make the website in Dutch or English.
+### Who are Sicco's Angels?
+- Git Master: [Hendrik Cromboom](https://github.com/HendrikCromboom)
+- Scrum Master: [Cis Magito](https://github.com/Beardificent)
+- Dude with a 'tude': [Alejandro Gonzalez](https://github.com/glezzz)
+- Our Diva, better believe-ah: [Victoria Sofianidou](https://github.com/victoriasof)
 
 ---
 
@@ -25,6 +20,15 @@ Demo:
 
 https://hendrikcromboom.github.io/name-of-your-business/
 
+
+---
+
+### Platform
+
+The Angels are using GitHub as their main repository for their combined intel and mission data.
+Purely because GitHub allows the Angels to quickly collect their combined research, data, files, codes and they can pull it to their personal drives.
+
+![IMG](https://raw.githubusercontent.com/HendrikCromboom/name-of-your-business/master/Assets/IMG/landingscreen.png)
 ---
 
 ### Requirements
@@ -51,7 +55,7 @@ Perfection is not a detail
 
 ##### Content
 
-[ ] Openinghours (if needed)
+[X] Openinghours (if needed)
 
 [X] Address (if needed)
 
@@ -143,25 +147,25 @@ Readme but also writeme
 
 [X] The readme explains what this repo/project is
 
-[ ] The readme explains why it is on github
+[X] The readme explains why it is on github
 
-[ ] The readme links to a preview (screenshot)
+[X] The readme links to a preview (screenshot)
 
-[ ] The readme contains a nice image
+[X] The readme contains a nice image
 
-[ ] The readme does not contain the readme/license of dependencies, libraries, templates
+[X] The readme does not contain the readme/license of dependencies, libraries, templates
 
-[ ] If needed they are included in the repo and are mentioned in the readme
+[X] If needed they are included in the repo and are mentioned in the readme
 
-[ ] The readme has a markdown title
+[X] The readme has a markdown title
 
-[ ] The readme is divided in sections
+[X] The readme is divided in sections
 
-[ ] The readme is fun to read
+[?] The readme is fun to read
 
-[ ] The readme looks good
+[X] The readme looks good
 
-[ ] The readme is clear, even for someone that has no idea what is going on
+[?] The readme is clear, even for someone that has no idea what is going on
 
 ##### I'm So Meta, Even This Acronym
 
@@ -237,7 +241,7 @@ Readme but also writeme
 
 ##### Individual Requirements
 
-[ ] Make page fully accessible for the visualy impaired/blind
+[ ] Make page fully accessible for the visually impaired/blind
 
 [X] Have a footer
 
@@ -254,12 +258,3 @@ Readme but also writeme
 [X]Add at least one CSS animation
 
 
-
-Contributors
-
----
-
-* Cis Magito
-* Victoria Sof
-* Alejandro
-* Hendrik

@@ -1,3 +1,5 @@
+/* Hendrik's */
+
 @import url('https://fonts.googleapis.com/css?family=Oswald:500');
 .back{
     position: fixed;
@@ -9,6 +11,11 @@
     background-attachment: fixed;
 }
 
+/* Alejandro's */
+
+body{
+    font-family: 'PT Sans Narrow', sans-serif;
+}
 
 .col{
     position: relative;
@@ -42,12 +49,16 @@
 .names{
     padding-top: 5px;
     text-align: center;
+    font-weight: bold;
+
+}
+
+.card-title{
+    font-family: 'Oswald', sans-serif;
 }
 
 
-.section-title{
-    margin-left: 15px;
-}
+/* Hendrik's */
 
 .thx{
     position: fixed;
