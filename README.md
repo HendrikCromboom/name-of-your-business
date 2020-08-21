@@ -185,7 +185,7 @@ Readme but also writeme
 
 [X] Implements (Google) analytics
 
-[ ] Perform all the tests
+##### Perform all the tests
 
 [X] Lighthouse
 
